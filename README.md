@@ -1,6 +1,6 @@
 # S-3DL
 
-run main.m 
+run main.m or demo.m
 
 
 The dataset can be downloaded from the link below:
